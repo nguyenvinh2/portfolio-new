@@ -19,3 +19,15 @@
     Finish time: 1025
 
     Actual time needed to complete: 25
+
+# Lab5 5a
+
+## Feature #1: Functionality
+
+    Estimate of time needed to complete: 45 minutes
+
+    Start time: 0900
+
+    Finish time: 1000
+
+    Actual time needed to complete: 60
