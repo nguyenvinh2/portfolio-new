@@ -1868,7 +1868,7 @@ section, article {
 
 /* Narrow */
 
-@media screen and (min-width: 961px) and (max-width: 1320px) {
+@media screen and (min-width: 737px) and (max-width: 1320px) {
 
   /* Basic */
 
@@ -1939,7 +1939,7 @@ section, article {
   display: none;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 736px) {
 
   /* Basic */
 
